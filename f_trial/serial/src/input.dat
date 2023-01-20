@@ -1,0 +1,4 @@
+4                  #NE
+1.0  1.0  1.0  1.0 #delta_X, F, A, E
+100                #Max iteration number of CG method
+1.e-8              #Residual for convergence
