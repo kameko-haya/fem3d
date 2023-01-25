@@ -1,6 +1,6 @@
-F90	  =  f90
+F90	  =  gfortran
 F90LINKER = $(F90)
-OPTFLAGS  = -Oss -noparallel
+OPTFLAGS  = -O0 
 FFLAGS = $(OPTFLAGS)
 F90LFLAGS=
 #
